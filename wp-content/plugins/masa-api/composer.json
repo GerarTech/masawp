@@ -1,0 +1,13 @@
+{
+    "name": "root/woo-masa-api",
+    "authors": [
+        {
+            "name": "Masa",
+            "email": "techgerar@gmail.com"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^7.36",
+        "automattic/woocommerce": "^3.0"
+    }
+}
